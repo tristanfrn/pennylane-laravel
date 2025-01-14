@@ -1,6 +1,6 @@
 # Pennylane API wrapper for Laravel
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/ashraam/pennylane-laravel.svg?style=flat-square)](https://packagist.org/packages/ashraam/pennylane-laravel)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/Tristanfrn/pennylane-laravel.svg?style=flat-square)](https://packagist.org/packages/Tristanfrn/pennylane-laravel)
 
 Please read the [official API documentation](https://pennylane.readme.io/reference#presentation) to know what are the required fields for each endpoint.
 ___
@@ -10,7 +10,7 @@ ___
 You can install the package via composer:
 
 ```bash
-composer require ashraam/pennylane-laravel
+composer require Tristanfrn/pennylane-laravel
 ```
 
 Then add the Pennylance API KEY in the `.env` file.
@@ -249,7 +249,7 @@ ___
 
 ## Credits
 
--   [Romain Bertolucci](https://github.com/ashraam)
+-   [Romain Bertolucci](https://github.com/Tristanfrn)
 ___
 
 ## License

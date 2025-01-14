@@ -1,6 +1,6 @@
 <?php
 
-namespace Ashraam\PennylaneLaravel\Api;
+namespace Tristanfrn\PennylaneLaravel\Api;
 
 use GuzzleHttp\ClientInterface;
 

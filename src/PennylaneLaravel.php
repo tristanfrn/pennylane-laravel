@@ -1,13 +1,13 @@
 <?php
 
-namespace Ashraam\PennylaneLaravel;
+namespace Tristanfrn\PennylaneLaravel;
 
 use GuzzleHttp\ClientInterface;
-use Ashraam\PennylaneLaravel\Api\Enums;
-use Ashraam\PennylaneLaravel\Api\Invoices;
-use Ashraam\PennylaneLaravel\Api\Products;
-use Ashraam\PennylaneLaravel\Api\Customers;
-use Ashraam\PennylaneLaravel\Api\Estimates;
+use Tristanfrn\PennylaneLaravel\Api\Enums;
+use Tristanfrn\PennylaneLaravel\Api\Invoices;
+use Tristanfrn\PennylaneLaravel\Api\Products;
+use Tristanfrn\PennylaneLaravel\Api\Customers;
+use Tristanfrn\PennylaneLaravel\Api\Estimates;
 
 class PennylaneLaravel
 {

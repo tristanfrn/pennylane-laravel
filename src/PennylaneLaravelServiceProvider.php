@@ -1,10 +1,10 @@
 <?php
 
-namespace Ashraam\PennylaneLaravel;
+namespace Tristanfrn\PennylaneLaravel;
 
 use GuzzleHttp\Client;
 use Illuminate\Support\ServiceProvider;
-use Ashraam\PennylaneLaravel\PennylaneLaravel;
+use Tristanfrn\PennylaneLaravel\PennylaneLaravel;
 
 class PennylaneLaravelServiceProvider extends ServiceProvider
 {
