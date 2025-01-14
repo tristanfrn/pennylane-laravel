@@ -1,6 +1,6 @@
 {
     "name": "tristanfrn/pennylane-laravel",
-    "description": "Pennylane API wrapper for Laravel - Fork from Ashraam's work",
+    "description": "Pennylane API wrapper for Laravel 11 - Fork from Ashraam's work",
     "keywords": [
         "Laravel",
         "Pennylane",
